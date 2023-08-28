@@ -15,8 +15,8 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 > By the end of this workshop, students are given a chance to work on real projects using Kaggle's datasets to practice using the workflow from A-Z
 
 Pre-requisite for the course is “Introduction to R programming and Visualization”, recorded as access via SMU panopto:
-- Introduction to R programming: [SMU Panopto link](https://smu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=352027d2-e643-4af5-8eaa-aeed01641094)
-- Introduction to Visualization with R: [SMU Panopto link](https://smu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=de149dec-188f-496b-9064-aeed016423b9)
+> - Introduction to R programming: [SMU Panopto link](https://smu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=352027d2-e643-4af5-8eaa-aeed01641094)
+> - Introduction to Visualization with R: [SMU Panopto link](https://smu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=de149dec-188f-496b-9064-aeed016423b9)
 >
 {: .prereq}
 
