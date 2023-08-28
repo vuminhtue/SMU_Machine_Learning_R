@@ -5,9 +5,9 @@ title: Setup RStudio for the workshop
 
 The simplest way is to have R and R Studio installed into your local machines (Windows/Linux or MacOS).
 
-# Method 2: Using SMU HPC M2 (Recommended)
+# Method 2: Using SMU HPC ManeFrame 3 (Recommended)
 
-Using this method, you need to have an M2 account.
+Using this method, you need to have an M3 account.
 
 ### Step 1: Login to SMU Open OnDemand via web browser:
 
